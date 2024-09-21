@@ -24,4 +24,4 @@ python main.py -q True -d < text.txt
 ### Why?
 Why not?
 
-* Example for GNU/Linux and may not work on Windows
+*Example for GNU/Linux and may not work on Windows
